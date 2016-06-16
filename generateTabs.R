@@ -1,3 +1,5 @@
+# Generate tabs based on the 'Grade' column in the .csv file and display editable table with only specific rows
+
 library(shiny)
 library(xlsx)
 library(rhandsontable)
